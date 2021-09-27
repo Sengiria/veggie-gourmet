@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/veggie-gourmet/static/css/main.651c8020.chunk.css",
-    "main.js": "/veggie-gourmet/static/js/main.4b2119e0.chunk.js",
-    "main.js.map": "/veggie-gourmet/static/js/main.4b2119e0.chunk.js.map",
-    "runtime-main.js": "/veggie-gourmet/static/js/runtime-main.79ff20ee.js",
-    "runtime-main.js.map": "/veggie-gourmet/static/js/runtime-main.79ff20ee.js.map",
-    "static/js/2.693ecf46.chunk.js": "/veggie-gourmet/static/js/2.693ecf46.chunk.js",
-    "static/js/2.693ecf46.chunk.js.map": "/veggie-gourmet/static/js/2.693ecf46.chunk.js.map",
-    "index.html": "/veggie-gourmet/index.html",
-    "static/css/main.651c8020.chunk.css.map": "/veggie-gourmet/static/css/main.651c8020.chunk.css.map",
-    "static/js/2.693ecf46.chunk.js.LICENSE.txt": "/veggie-gourmet/static/js/2.693ecf46.chunk.js.LICENSE.txt",
-    "static/media/header.styles.scss": "/veggie-gourmet/static/media/banner.c43420d0.jpg"
+    "main.css": "/sengiria.github.io/veggie-gourmet/static/css/main.9bfdbe2f.chunk.css",
+    "main.js": "/sengiria.github.io/veggie-gourmet/static/js/main.4b2119e0.chunk.js",
+    "main.js.map": "/sengiria.github.io/veggie-gourmet/static/js/main.4b2119e0.chunk.js.map",
+    "runtime-main.js": "/sengiria.github.io/veggie-gourmet/static/js/runtime-main.adf2036e.js",
+    "runtime-main.js.map": "/sengiria.github.io/veggie-gourmet/static/js/runtime-main.adf2036e.js.map",
+    "static/js/2.693ecf46.chunk.js": "/sengiria.github.io/veggie-gourmet/static/js/2.693ecf46.chunk.js",
+    "static/js/2.693ecf46.chunk.js.map": "/sengiria.github.io/veggie-gourmet/static/js/2.693ecf46.chunk.js.map",
+    "index.html": "/sengiria.github.io/veggie-gourmet/index.html",
+    "static/css/main.9bfdbe2f.chunk.css.map": "/sengiria.github.io/veggie-gourmet/static/css/main.9bfdbe2f.chunk.css.map",
+    "static/js/2.693ecf46.chunk.js.LICENSE.txt": "/sengiria.github.io/veggie-gourmet/static/js/2.693ecf46.chunk.js.LICENSE.txt",
+    "static/media/header.styles.scss": "/sengiria.github.io/veggie-gourmet/static/media/banner.c43420d0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.79ff20ee.js",
+    "static/js/runtime-main.adf2036e.js",
     "static/js/2.693ecf46.chunk.js",
-    "static/css/main.651c8020.chunk.css",
+    "static/css/main.9bfdbe2f.chunk.css",
     "static/js/main.4b2119e0.chunk.js"
   ]
 }
